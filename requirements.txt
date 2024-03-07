@@ -1,0 +1,8 @@
+fastapi
+dbutils
+uvicorn[standard]
+pydantic
+pymysql
+numpy
+pandas
+gurobipy
